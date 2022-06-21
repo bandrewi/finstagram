@@ -2,15 +2,15 @@
 
 Finstagram is a web application that allows users to connect with other users and see their photos on their photo feed. This project was inspired by Instagram.
 
-Connect and share at https://finstagram-aajp.herokuapp.com/
+Connect and share at https://finstagramaa.herokuapp.com/
 
 ## Directory
 
-[Features List](https://github.com/jadenlambino/python-group-project/wiki/Features-List)
+[Features List](https://github.com/bandrewi/finstagram/wiki/Features-List)
 
-[Database Schema](https://github.com/jadenlambino/python-group-project/wiki/Database-Schema)
+[Database Schema](https://github.com/bandrewi/finstagram/wiki/Database-Schema)
 
-[User Stories](https://github.com/jadenlambino/python-group-project/wiki/User-Stories)
+[User Stories](https://github.com/bandrewi/finstagram/wiki/User-Stories)
 
 
 ## Technologies Used:
@@ -68,6 +68,3 @@ npm install
 ```
 npm start
 ```
-
-## Acknowledgements
-This application was built by Jaden Lambino ([GitHub](https://github.com/jadenlambino)), Andrew Bui ([GitHub](https://github.com/bandrewi)), Phillip McCrickard ([GitHub](https://github.com/pcricket10)), and Alexander Min ([GitHub](https://github.com/AlexanderSMin))
